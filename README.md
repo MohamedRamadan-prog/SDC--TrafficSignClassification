@@ -28,9 +28,9 @@ Classification problem has an effective role in self-driving cars. However, clas
 
 ![output_30_0](https://user-images.githubusercontent.com/53750465/62506449-092e0600-b801-11e9-96b9-ec6efbf12bea.png)
 
-![output_57_1](https://user-images.githubusercontent.com/53750465/62506512-38dd0e00-b801-11e9-9ad2-16428d29ca01.png)
-
 # Module Results:
+
+![output_57_1](https://user-images.githubusercontent.com/53750465/62506512-38dd0e00-b801-11e9-9ad2-16428d29ca01.png)
 
 ![Prob Test](https://user-images.githubusercontent.com/53750465/62506510-38dd0e00-b801-11e9-8045-89448a55a595.PNG)
 
